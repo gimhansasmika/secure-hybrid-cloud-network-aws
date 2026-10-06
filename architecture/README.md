@@ -1,3 +1,1 @@
-# Architecture
-
-This folder contains the network architecture diagram for the project.
+![Secure Hybrid Cloud Network Architecture](architecture/architecture-diagram.png)
