@@ -1,1 +1,1 @@
-![Secure Hybrid Cloud Network Architecture](architecture/architecture-diagram.png)
+![Secure Hybrid Cloud Network Architecture](architecture/-diagram.drawio.png)
