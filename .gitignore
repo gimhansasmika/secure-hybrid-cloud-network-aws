@@ -1,0 +1,23 @@
+# SSH / AWS private keys
+*.pem
+*.key
+*.ppk
+
+# WireGuard private configs
+wg0.conf
+*.conf
+
+# Environment / secrets
+.env
+.env.*
+credentials
+credentials.*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
